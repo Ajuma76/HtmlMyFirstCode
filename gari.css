@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    background: dimgrey;
+    font-size: 20px;
+}
+.toyota{
+    color: wheat;
+    font-family: "Britannic Bold";
+
+}
+.mercedes{
+    color: darkgoldenrod;
+    font-family: "Eras Medium ITC";
+
+}
+.Nissan{
+    color: orangered;
+}
+#others{
+    font-family: "Imprint MT Shadow";
+    font-weight: bolder;
+    color: brown;
+}
+img{
+    height: 340px;
+    width: 700px;
+}

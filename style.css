@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    background-color: mediumaquamarine;
+}
+h2{
+    color: orangered;
+    font-family: "Eras Bold ITC";
+    text-transform: uppercase;
+    text-decoration: underline;
+    text-combine: left;
+
+}
+
+p{
+    color: brown;
+    font-size: 56px;
+    font-weight: lighter;
+}
